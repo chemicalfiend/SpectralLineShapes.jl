@@ -1,0 +1,13 @@
+name = "SpectralLineShapes"
+uuid = "83506d04-b1c0-46a3-a747-411aec530d01"
+authors = ["Pranay Venkatesh"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
